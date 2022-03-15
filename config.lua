@@ -24,11 +24,11 @@ vim.opt.termguicolors = true
 vim.g.gruvbox_material_background = 'medium'
 vim.g.gruvbox_material_palette = 'origin'
 vim.g.gruvbox_material_statusline_style = 'origin'
-vim.g.gruvbox_material_diagnostic_virtual_text = 'colored'
-vim.g.gruvbox_material_enable_italic = 1
+-- vim.g.gruvbox_material_diagnostic_virtual_text = 'colored'
+-- vim.g.gruvbox_material_enable_italic = 1
 vim.g.gruvbox_material_disable_italic_comment = 1
 vim.g.gruvbox_material_transparent_background = 0
-vim.g.gruvbox_material_diagnostic_line_highlight = 1
+-- vim.g.gruvbox_material_diagnostic_line_highlight = 1
 
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
